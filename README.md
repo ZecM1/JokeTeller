@@ -4,7 +4,7 @@
 
 Joke Teller is an interactive web application designed to bring a touch of humor to your day and help me showcase my knowledge and skills. It fetches jokes from an external API, displays them on the screen, and uses speech synthesis to read them out loud. The application features an animated GIF as a background, adding a playful element to the user experience. It also allows users to filter jokes by category, ensuring that the content is tailored to their preferences. On a button press, the application not only displays a joke but also speaks it out, making it a truly immersive experience.
 
-## Key Features and Technologies Used in the Development of Joke Teller
+## Key Features and Technologies
 
 ### Async Function and Fetch API:
 
